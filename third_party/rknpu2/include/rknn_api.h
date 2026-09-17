@@ -1,0 +1,1 @@
+/home/orangepi/rknn-toolkit2/rknpu2/runtime/Android/librknn_api/include/rknn_api.h
